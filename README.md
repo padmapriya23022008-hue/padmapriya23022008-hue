@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm PadmaPriya N 👋
 
-<!--
-**padmapriya23022008-hue/padmapriya23022008-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Artificial Intelligence and Data Science Student
 
-Here are some ideas to get you started:
+I am a student interested in Artificial Intelligence, Data Science, Python, and Machine Learning. I am currently learning and building practical projects to improve my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Python
+- C++
+- Java
+- SQL
+- Git & GitHub
+- Machine Learning
+- Data Science
+- Streamlit
+
+## 🚀 Projects
+
+### 🌱 Air Quality Analysis for Environmental Monitoring
+An AI & Data Science project focused on analyzing air quality data and predicting AQI using machine learning.
+
+### 🐍 Python Projects
+A collection of Python projects developed during internships and learning activities.
+
+- To-Do List
+- Calculator
+- Password Generator
+- Rock Paper Scissors
+- Snake Game
+- Connect Four
+
+## 📚 Currently Learning
+
+- Python for Data Science
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Machine Learning
+- Data Visualization
+
+## 🎯 Career Goal
+
+To develop strong skills in Artificial Intelligence and Data Science and build practical solutions using technology.
+
+## 📫 Connect With Me
+
+🔗 LinkedIn: [PadmaPriya N](https://www.linkedin.com/in/padma-priya-nagaraj)
