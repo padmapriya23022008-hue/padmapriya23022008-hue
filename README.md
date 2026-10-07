@@ -11,9 +11,6 @@ I am a student interested in Artificial Intelligence, Data Science, Python, and 
 - Java
 - SQL
 - Git & GitHub
-- Machine Learning
-- Data Science
-- Streamlit
 
 ## 🚀 Projects
 
